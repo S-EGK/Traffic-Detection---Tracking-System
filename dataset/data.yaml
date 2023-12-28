@@ -1,0 +1,11 @@
+# relative path to dataset directories
+path: ../dataset
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+# number of classes
+nc: 5
+
+# class names
+names: ['bicycle', 'bus', 'car', 'motorbike', 'person']
